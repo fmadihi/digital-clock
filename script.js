@@ -44,3 +44,4 @@ document.getElementById("hour").innerText = h;
 document.getElementById("minute").innerText = m;
 document.getElementById("second").innerText = s;
 document.getElementById("AP").innerText = t;
+//Fatemeh Madihi
